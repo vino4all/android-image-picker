@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pick &amp; Crop Image</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_crop">Crop</string>
+</resources>
